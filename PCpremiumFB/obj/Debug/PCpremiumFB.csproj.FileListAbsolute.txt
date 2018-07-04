@@ -1,0 +1,43 @@
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\PCpremiumFB.exe.config
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\PCpremiumFB.exe
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\PCpremiumFB.pdb
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\Newtonsoft.Json.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\Newtonsoft.Json.xml
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\obj\Debug\PCpremiumFB.Properties.Resources.resources
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\obj\Debug\PCpremiumFB.csproj.GenerateResource.Cache
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\obj\Debug\PCpremiumFB.exe
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\obj\Debug\PCpremiumFB.pdb
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\obj\Debug\PCpremiumFB.Form1.resources
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\Firebase.Database.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\System.Reactive.Core.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\System.Reactive.Interfaces.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\System.Reactive.Linq.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\System.Reactive.Core.xml
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\System.Reactive.Interfaces.xml
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\System.Reactive.Linq.xml
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\obj\Debug\PCpremiumFB.UIform.resources
+E:\Szkolenie\C#\Projekty\PCpremiumFB\PCpremiumFB\obj\Debug\PCpremiumFB.csprojResolveAssemblyReference.cache
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\PCpremiumFB.exe.config
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\PCpremiumFB.exe
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\PCpremiumFB.pdb
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\Firebase.Database.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\Newtonsoft.Json.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\System.Reactive.Core.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\System.Reactive.Interfaces.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\System.Reactive.Linq.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\Newtonsoft.Json.xml
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\System.Reactive.Core.xml
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\System.Reactive.Interfaces.xml
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\System.Reactive.Linq.xml
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\obj\Debug\PCpremiumFB.Form1.resources
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\obj\Debug\PCpremiumFB.Properties.Resources.resources
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\obj\Debug\PCpremiumFB.UIform.resources
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\obj\Debug\PCpremiumFB.csproj.GenerateResource.Cache
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\obj\Debug\PCpremiumFB.exe
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\obj\Debug\PCpremiumFB.pdb
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\obj\Debug\PCpremiumFB.Login.resources
+E:\Szkolenie\C#\Projekty\PCpremiumFB — копия\PCpremiumFB\obj\Debug\PCpremiumFB.csprojResolveAssemblyReference.cache
